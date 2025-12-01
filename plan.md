@@ -38,3 +38,4 @@
 2. Create issues
 3. Write meaningful commits
 4. Merge PR into main
+Added more planning details
