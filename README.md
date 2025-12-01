@@ -10,3 +10,4 @@ This repository contains a reproducible analysis for Activity 14 of the MyOpenMa
 ## How to Run
 1. Open `activity14-report.qmd` in RStudio
 2. Click "Render" to generate PDF output
+Updated README details
